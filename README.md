@@ -11,10 +11,15 @@ The downloadable link is valied from first of July 2022 until 31st of July 2022.
 
 When downloading the link, assure the following folder structure:
 ├── dutch-news-articles.csv
+
 ├── NOS.wordvectors.vectors.npy
+
 ├── NRC-Emotion-Lexicon
+
 │   ├── NRC - Sentiment Lexicon - Research EULA Sept 2017 .pdf
+
 │   ├── README.txt
+
 │   ├── EmoLex-Ethics-Data-Statement.pdf
 │   ├── .DS_Store
 │   └── NRC-Emotion-Lexicon-v0.92
